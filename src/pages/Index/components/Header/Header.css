@@ -1,0 +1,26 @@
+.header {
+    background-color: #FAFAFA;
+    width: 100vw;
+    height: 1.1rem;
+    color: #000;
+}
+    strong {
+        color: #666666;
+        display: inline-block;
+        line-height: 0.5rem;
+        width: 2rem;
+        height: 0.5rem;
+        text-align: center;
+        border-radius: 0.3rem;
+        font-size: 0.22rem;
+        background-color: #ccc;
+        margin-left: 1.8rem;
+        position: absolute;
+        top: 0.3rem;
+    }
+img {
+    width: 1.9rem;
+    height: 0.6rem;
+    margin-top: 0.2rem;
+    margin-left: 0.3rem;
+}

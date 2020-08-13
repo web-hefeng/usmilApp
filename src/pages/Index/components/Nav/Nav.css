@@ -1,0 +1,19 @@
+
+.NavUl {
+    display: flex;
+}
+.NavUl .Navli {
+    flex: 1;
+    width: 0.5rem;
+    height: 2.1rem;
+    /* background-color: red; */
+    text-align: center;
+}
+.NavUl .Navli .NavImg {
+    width: 100%;
+    margin: 0;
+    height: 1.5rem;
+}
+.NavP {
+    color: #676769;
+}

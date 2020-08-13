@@ -1,0 +1,47 @@
+.clea{
+    overflow: hidden;
+    height: 100vh;
+}
+
+.nav {
+    width: 2rem;
+    height: 1rem;
+    float: left;
+}
+.nav a {
+    width: 2rem;
+    height: 0.9rem;
+    display: inline-block;
+    text-align: center;
+    line-height: 0.9rem;
+    color: #000;
+}
+.fenlei .nav .select{
+    background-color: #fff;
+    color: orange;
+    border-left: 0.16rem solid #1D84A7;
+}
+.navright {
+    width: 5rem;
+    float: left;
+}
+.navright a {
+    display: inline-block;
+    width: 2.2rem;
+    border: 1px solid #1D84A7;
+    border-radius: 0.3rem;
+    overflow: hidden;
+    margin-left: 0.2rem;
+    /* margin: 0.02rem; */
+}
+.navright a img {
+    margin: 0;
+    width: 2.2rem;
+    height: 2.5rem;
+}
+.navright a p {
+    margin: 0;
+    text-align: center;
+    background-color: #1D84A7;
+    color: #fff;
+}

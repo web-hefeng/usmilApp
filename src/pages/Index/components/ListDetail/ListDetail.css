@@ -1,0 +1,103 @@
+.box {
+    border: #ccc;
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+.ListDetailImg {
+    width: 100%;
+    height: 4rem;
+    margin: 0;
+    position: relative;
+    /* z-index: 1000 !important; */
+}
+.content {
+    width: 100vw;
+    height: 6.5rem;
+    background-color: #fff;
+}
+.Listxiaodiv {
+    padding: 0.13rem;
+    position: relative;
+    overflow: hidden;
+    text-align: right;
+}
+.Listxiaodiv h3 {
+    font-size: 0.4rem;
+    margin-left: 0.25rem;
+    /* display: inline-block; */
+    float: left;
+    /* display: block; */
+    padding-top: 0.06rem;
+    /* display: inline-block; */
+}
+.Listxiaodiv span {
+    width: 0.9rem;
+    height: 0.9rem;
+    margin-left: 4.7rem;
+    font-size: 0.25rem;
+    background: url(../../../../assets/img/购物车1.png) no-repeat;
+    background-size: 0.5rem !important;
+    background-position: 0.16rem 0 ;
+    border-left: 1px solid #ccc;
+    padding-top: 0.4rem;
+    padding-left: 0.2rem;
+    color: red;
+}
+.divPrice {
+    width: 100% ;
+    overflow: hidden;
+}
+.divPrice i {
+    font-size: 0.32rem;
+    color: red;
+    display: block;
+    float: left;
+    margin-left: 0.31rem;
+}
+.divPrice a {
+    margin-left: 0.21rem;
+   float: left;
+   width: 3rem;
+}
+.divPrice a font {
+    width: 0.9rem;
+    display: inline-block;
+    margin-left: 0.09rem;
+    border: 0.01rem solid orange;
+    height: 0.5rem;
+    color: orange;
+    font-size: 0.3rem;
+    text-align: center;
+}
+.delI del {
+    margin-left: 0.26rem;
+}
+.Listlogo {
+    margin-top: 0.5rem;
+}
+.Listlogo p img {
+    width: 9rem;
+    height: 9rem;
+    margin: 0;
+}
+.box .Listfooter {
+    width: 100%;    
+    height: 1.1rem;
+    background-color: #fff;
+    position: fixed !important;
+    bottom: 0;
+    left: 0;
+}
+.Listfooter button {
+    position: absolute;
+    right: 0;
+    width: 2rem;
+    background-color: #FFAA00;
+    height: 1.1rem;
+    color: #fff;
+    text-align: center;
+    line-height: 1.1rem;
+    border: 0;
+}

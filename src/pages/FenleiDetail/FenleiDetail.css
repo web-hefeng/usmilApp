@@ -1,0 +1,39 @@
+.xqdiv {
+    width: 100%;
+    height: 2.5rem;
+}
+.xqdiv_item {
+    float: left;
+    width: 2.7rem;
+    height: 2.4rem;
+    overflow: hidden;
+    border-radius: 0.4rem;
+    /* margin: 0.1rem; */
+    margin-left: 0.2rem;
+    /* margin-top: 0.2rem; */
+}
+.xqdiv_item img {
+    margin: 0;
+    width: 2.7rem;
+    height: 2.5rem;
+}
+.xqdiv_item1 {
+    float: left;
+    margin-left: 0.40rem;
+}
+.xqdiv_item1 i {
+    color: red;
+    font-weight: 600;
+}
+.xqdiv_item1 .LinkBtn {
+    border: 0;
+    width: 1.7rem;
+    display: inline-block;
+    line-height: 0.8rem;
+    margin-top: 0.2rem;
+    height: 0.8rem;
+    border-radius: 0.2rem;
+    text-align: center;
+    background-color: #FF9900;
+    color: #fff;
+}

@@ -1,0 +1,76 @@
+
+   
+.mask {
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.3);
+    /* background-color: ; */
+}
+.mask_con {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100vw;
+    height: 5.5rem;
+    background-color: #fff;
+}
+.diyi {
+    position: relative;
+}
+.diyi img {
+    margin: 0;
+    width: 2.5rem;
+    height: 2.3rem;
+    margin: 0.3rem;
+
+}
+.diyi span {
+    color: #000;
+    position: absolute;
+    top: 0.5rem;
+    left: 3rem;
+    font-size: 0.4rem;
+    display: inline-block;
+}
+.dier h3 {
+    font-weight: 700;
+    margin-left: 0.20rem;
+}
+.dier p a {
+    display: inline-block;
+    width: 1rem;
+    height: 0.3;
+    /* background-color: red; */
+    border: 1px solid #999;
+    border-radius: 0.1rem;
+    color: #999;
+    text-align: center;
+    margin-left: 0.3rem;
+}
+.evebtn {
+    text-align: center;
+}
+.evebtn button {
+    width: 1.7rem;
+    font-size: 0.2rem;
+    height: 0.8rem;
+    border: 0;
+    text-align: center;
+    color: #fff;
+    background-color: #FFAA00;
+
+}
+.ss {
+    display: inline-block !important;
+    width: 1rem !important;
+    height: 0.3 !important;
+    /* background-color: red; */
+    border-radius: 0.1rem !important;
+    text-align: center !important;
+    margin-left: 0.3rem !important;
+    border: 1px solid #FFAA00 !important;
+    color: 1px solid #FFAA00 !important;
+}

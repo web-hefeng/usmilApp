@@ -1,0 +1,36 @@
+.Header {
+    width: 100%;
+    height: 0.6rem;
+    background-color: #FF9900;
+    text-align: center;
+    line-height: 1rem;
+    font-size: 0.45rem;
+color: #fff;
+    overflow: hidden;
+    box-sizing: border-box;
+    position: relative;
+}
+.Header_span {
+    font-size: 0.45rem;
+    color: #fff;
+    text-align: left;
+    position: absolute;
+    left: 0.10rem;
+    font-weight: normal;
+    display: inline-block;
+}
+.reg {
+    font-size: 0.45rem;
+    color: #fff;
+    font-weight: normal;
+    position: absolute;
+    right: 0.15rem;
+}
+.reglogin {
+    /* text-align: right; */
+    /* display: inline-block; */
+    /* float: right; */
+    position: absolute;
+    right: 0.35rem;
+    color: #fff;
+}
